@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rokhmadsetiawan
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning next.js and animation
+- 🌱 I’m currently learning next.js and gsap
 - 💞️ I’m looking to collaborate on frontend projects
 - Contact : setiawan.iwd@gmail.com
 
